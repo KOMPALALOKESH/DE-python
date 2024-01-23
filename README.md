@@ -10,5 +10,5 @@ git merge origin/main
 git push origin master:main
 
 ## alternative commands
-git pull origin main --allow-unrelated-histories
+git pull origin main --allow-unrelated-histories<br>
 git push origin master:main
